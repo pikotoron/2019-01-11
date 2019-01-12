@@ -284,3 +284,6 @@ a=10
 b=3.000000
 c=C
 ```
+
+## 練習問題
+int型の変数kakaku,daikin,otsuriを宣言し、kakakuを700、daikinを1000とします。daikinからkakakuを引いた値を求め、otsuriに代入し、表示するプログラムkaimono.cを作成してください。
